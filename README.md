@@ -2,7 +2,7 @@
 https://openai-poc-production.up.railway.app/docs
 
 ## Run Locust (Load Testing)
-### ```locust --host http://localhost:8080```
+```locust --host https://openai-poc-production.up.railway.app```
 
 ## Tech Stack
-### OpenAI GPT-4, FastAPI, Locust, Railway
+OpenAI GPT-4, FastAPI, Locust, Railway
